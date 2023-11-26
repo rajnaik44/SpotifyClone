@@ -1,4 +1,4 @@
 # SpotifyClone
 
 #output
-![Capture](https://github.com/rajnaik44/SpotifyClone/assets/114856688/01de998e-5861-4983-a502-669ca987f3b9)
+![SpotifyClone](https://github.com/rajnaik44/SpotifyClone/assets/114856688/def93947-cf30-4710-9d9b-eca27816d5dc)
